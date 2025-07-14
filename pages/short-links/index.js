@@ -29,7 +29,7 @@ export default function ShortLinkListPage({ shortLinks: initialShortLinks }) {
   return (
     <>
       <Head>
-        <title>주소 줄이기 - Shortit</title>
+        <title>주소 줄이기기 - Shortit</title>
       </Head>
       <div className={styles.page}>
         <header className={styles.header}>
