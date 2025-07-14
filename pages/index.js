@@ -50,7 +50,7 @@ export default function Home() {
           height={140}
         />
         <div className={styles.intro}>
-          <h1 className={styles.title}>긴 주소를 짧은 주소로 줄이세요</h1>
+          <h1 className={styles.title}>긴긴긴 주소를 짧은 주소로 줄이세요</h1>
           <p className={styles.description}>
             길고 복잡한 링크 주소를 짧게 줄이는 단축URL 서비스
           </p>
